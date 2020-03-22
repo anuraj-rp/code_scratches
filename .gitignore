@@ -1,2 +1,9 @@
 dllTests/.idea/
 dllTests/cmake-build-debug/
+freeRTOSTests/freeRTOSEx1.cydsn/freeRTOSEx1.cycdx
+freeRTOSTests/freeRTOSEx1.cydsn/freeRTOSEx1.cyfit
+freeRTOSTests/freeRTOSEx1.cydsn/freeRTOSEx1.rpt
+freeRTOSTests/freeRTOSEx1.cydsn/codegentemp/
+freeRTOSTests/freeRTOSEx1.cydsn/CortexM0p/
+freeRTOSTests/freeRTOSEx1.cydsn/Export/
+freeRTOSTests/freeRTOSEx1.cydsn/Generated_Source/
